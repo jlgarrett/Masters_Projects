@@ -1,4 +1,5 @@
-Title: Multi-satellite data fusion for algal bloom monitoring
+Multi-satellite data fusion for algal bloom monitoring
+--
 Advisor: Joseph Garrett
 
 Harmful algal blooms pose a significant risk to fish farmers, and the risk is only increasing because of climate change. Hyperspectral imaging satellites, such as NTNU's  [HYPSO-1](https://www.ntnu.edu/web/smallsat/ntnu-smallsat-lab), can resolve the characteristics of algal blooms near fish farms. However, because such satellites are limited by their data and energy budgets, they can only image a limited number of locations each day. A harmful algal bloom monitoring system would benefit from incorporating satellites which image the whole earth at a high spatial resolution, such as Sentinel-2. 
