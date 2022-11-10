@@ -1,5 +1,5 @@
 Interpretable and controllable feature extraction for scientific inference with big data
-
+--
 Advisor: Joseph Garrett
 
 Machine learning techniques for feature extraction give great exploratory power when confronted with big data. Thus they seem ideal for finding chlorophyll and other pigments in hyperspectral images, such as those collected by the NTNU's  [HYPSO-1](https://www.ntnu.edu/web/smallsat/ntnu-smallsat-lab) satellite. Unfortunately, they are often hard to control and interpret. Therefore, scientists often revert to simpler solutions, such as using band ratio algorithms. 
