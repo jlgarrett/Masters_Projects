@@ -1,4 +1,5 @@
-3. Artificial intelligence in remote sensing: characterizing uncertainty and assessing forest management risk 
+Artificial intelligence in remote sensing: characterizing uncertainty and assessing forest management risk 
+
 Advisor: Joseph Garrett
 
 NTNU and [S&T Norway](https://stcorp.no/) are developing a convolutional neural network to run on-board hyperspectral imaging satellites such as NTNU's own [HYPSO-1](https://www.ntnu.edu/web/smallsat/ntnu-smallsat-lab) or ESA's soon-to-launch CHIME. It is a U-Net designed to classify hyperspectral images in real-time. This FauBai CNN will be used to identify and characterize forests. The first iteration of the algorithm identifies (1) where a forest is present and (2) what is the dominant tree type (pine, spruce, or deciduous). 
