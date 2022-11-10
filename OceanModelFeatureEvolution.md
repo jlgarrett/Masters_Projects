@@ -1,6 +1,6 @@
 Prediction of hyperspectral feature evolution using ocean simulations
 ==
-Advisor: Joseph Garrett
+Advisor: Joseph Garrett  
 Co-advisor: Esmée Oudijk
 
 NTNU's [HYPSO-1](https://www.ntnu.edu/web/smallsat/ntnu-smallsat-lab) satellite records images of the ocean in 120 spectral bands which can resolve many unexpected features in the earth's oceans. However, it is one thing to observe something unusual, but it is another to predict how it will change in time. For example, if a harmful algal bloom is observed near a fish farm, we would like to know if it will move towards or away from the farm. 
