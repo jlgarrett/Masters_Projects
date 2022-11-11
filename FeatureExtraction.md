@@ -8,6 +8,6 @@ This project will involve developing a feature extraction technique which scient
 
 This project will be part of [ELO-Hyp](https://elohyp.wordpress.com/project/), in which NTNU is collaborating with several Romanian institutions. It is likely possible to join the yearly meeting for this project, at which you could present your results. Moreover, there will likely opportunities to take part in hyperspectral UAV imaging missions in connection with a few other ongoing projects. 
 
-Note that this project will probably require quite a bit of mathematics (e.g. optimization) in addition to programming. So it could be an intriguing choice if you enjoy wrestling with equations for hours. 
+Note that this project will probably require quite a bit of mathematics (e.g. \[non-\]convex optimization theory) in addition to programming. So it could be an intriguing choice if you enjoy wrestling with equations for hours. If you are more intersted in analyzing data than developing novel algorithms, some of the other projects I've listed may be better choices. 
 
 Please contact Joe at joseph.garrett@ntnu.no for more information. 
