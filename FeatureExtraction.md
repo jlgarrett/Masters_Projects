@@ -8,6 +8,6 @@ This project will involve developing a feature extraction technique which scient
 
 This project will be part of [ELO-Hyp](https://elohyp.wordpress.com/project/), in which NTNU is collaborating with several Romanian institutions. It is likely possible to join the yearly meeting for this project, at which you could present your results. Moreover, there will likely opportunities to take part in hyperspectral UAV imaging missions in connection with a few other ongoing projects. 
 
-Note that this project will probably require quite a bit of mathematics (e.g. \[non-\]convex optimization theory) in addition to programming. So it could be an intriguing choice if you enjoy wrestling with equations for hours. If you are more intersted in analyzing data than developing novel algorithms, some of the other projects I've listed may be better choices. 
+This project is also associated with NIVA and the [SeaBee consortium](https://seabee.no/). Thus, it will be possible to access the Sigma2 supercomputer. Use of the supercomputer should be fairly simple, and the folks at NIVA assure me that simple computing environments, such as Jupyter, can be run on Sigma2. In addition, funds are available to support a drone mapping expedition to the Norwegian coast, if more data are desired. Moreover, there may be imaging missions during the semester which you could join. 
 
 Please contact Joe at joseph.garrett@ntnu.no for more information. 
