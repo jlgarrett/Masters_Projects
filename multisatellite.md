@@ -1,4 +1,4 @@
-Multi-satellite data fusion for algal bloom monitoring
+Multi-satellite data fusion for ocean color remote sensing
 --
 Advisor: Joseph Garrett
 
@@ -6,6 +6,6 @@ Harmful algal blooms pose a significant risk to fish farmers, and the risk is on
 
 This master's project would involve investigating how to fuse multispectral images from the Sentinel-2 satellite with hyperspectral images from the HYPSO-1 satellite. The project should also consider how to automate the data fusion so that it could be incorporated into a real-time HAB monitoring system. 
 
-The project is part of a collaboration with Grieg Seafood and Salmar, two fish farming companies. It would be possible to join meetings with the whole collaboration and perhaps even present your work at them, if desired. It might even be possible to visit some fish farms. 
+This topic is related to the ongoing HYPSCI project at NTNU, which is involved in validating and developing the data products provided by the HYPSO-1 satellite. 
 
 Please contact Joe at joseph.garrett@ntnu.no for more information.
