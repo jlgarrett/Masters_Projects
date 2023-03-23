@@ -1,4 +1,4 @@
-Prediction of algal bloom dynamics by ocean simulations and satellite images
+Predicting of algal bloom dynamics using ocean simulations and satellite images
 --
 Advisor: Joseph Garrett  
 Co-advisor: Esmée Oudijk
