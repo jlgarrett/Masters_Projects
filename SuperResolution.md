@@ -1,4 +1,4 @@
-Hyperspectral super-resolution for ecosystem monitoring in fjords
+Hyperspectral satellite super-resolution for ecosystem monitoring in fjords
 --
 Advisor: Joseph Garrett  
 
