@@ -1,4 +1,4 @@
-Semisupervised algae monitoring from hyperspectral satellites
+Semisupervised algae monitoring of fish farm sites from hyperspectral satellites 
 --
 Advisor: Joseph Garrett  
 
