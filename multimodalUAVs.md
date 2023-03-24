@@ -1,7 +1,7 @@
 Multimodal ocean color imaging with UAVs
 --
 Advisor: Joseph Garrett
-Co-advisor: Someone who specializes in drone mission planning (TBD)
+Co-advisor: Tor Arne Johansen
 
 The coastal environment contains many ecologically important species such as kelp and seagrass. Monitoring and mapping the coast can be a tool for ensuring the health and prosperity of these species. For that reason, [NIVA](https://www.niva.no/), in collaboration with NTNU, is developing a system for mapping the coast with drones. Currently, several different imagers are carried by different drones, including an rgb camera, a multispectral camera, and a hyperspectral camera. The hyperspectral camera measures the most information, while the rgb camera can image the largest area with the highest resolution. In the project, we would like to fuse the information collected by the sensors in order to combine the advantages of the different imaging modalities. 
 
