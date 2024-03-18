@@ -16,11 +16,12 @@ It's been shown to be very powerful on single images, but has rarely been applie
 Thus this would be a very novel research topic. 
 
 ​Skills that will be learned:​
--Machine learning (various python libraries)
--Processing large datasets 
--Hyperspectral image processing 
+- Machine learning (various python libraries)
+- Processing large datasets 
+- Hyperspectral image processing 
 
 Notes:
+
 I will find a co-advisor for this project. The HYPSO project usually has about 10 masters students working on projects, so there will be others to chat with about your project and to socialize with. 
 This project can be continued as a thesis. Although this is an extremely interesting research topic, I also think that it may be fairly challenging relative to the other masters project topics that I've offered. 
 A love of mathematics is more important than prior machine learning experience, as I think some analytic derivations will probably be necessary for understanding how the networks operate.
