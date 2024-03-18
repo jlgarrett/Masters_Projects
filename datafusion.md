@@ -7,7 +7,8 @@ Once launched, the HYPSO-3 satellite will be used for water quality monitoring o
  
 Previous methods for data fusion have focused on the creation of a larger, high spatial/spectral-resolution dataset. In this project, you could develop the fusion in the context of different applications, such as the detection of algae. 
 
-(Example of multi/hyperspectral data fusion)[http://naotoyokoya.com/assets/pdf/NYokoyaTGRS2012.pdf]
+Example of multi/hyperspectral data fusion:
+http://naotoyokoya.com/assets/pdf/NYokoyaTGRS2012.pdf
 
 Notes:
 I will find a co-advisor for this project. The HYPSO project usually has about 10 masters students working on projects, so there will be others to chat with about your project and to socialize with. This project can be continued as a thesis. 
