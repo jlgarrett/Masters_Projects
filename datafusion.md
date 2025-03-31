@@ -7,4 +7,7 @@ Once launched, the HYPSO-3 satellite will be used for water quality monitoring o
 
 Here is are two examples of multi/hyperspectral data fusion: http://naotoyokoya.com/assets/pdf/NYokoyaTGRS2012.pdf https://www.sciencedirect.com/science/article/pii/S0169743920301180 . However, data fusion of two hyperspectral images is a novel topic, and few methods have been proposed to date.You could be one of the first to work on it globally!
 
+Some programming experience might help with this project. I'll show you what you need to know about optics and spectroscopy, since they are not typical parts of the cybernetics curriculum. 
+
+
 Contact joseph.garrett@ntnu.no for more details.
