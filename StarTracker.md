@@ -15,3 +15,5 @@ Some of the tasks in this project could be:
 This project could be extended into a thesis to create a real-time attitude determination algorithm for the camera.
 
 It will be co-supervised by PhD student Simen Berg and Postdoc Dennis Langer
+
+This thesis contains a bit about how star trackers are used to control satellites: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3156106  
