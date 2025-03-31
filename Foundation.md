@@ -1,19 +1,11 @@
-Foundation Model for Unmixing Hyperspectral Remote Sensing
+Explainable AI for Ocean Monitoring Time-series 
 =
 
-NTNU's HYPSO-1 satellite has been collecting hyperspectral data of coastal oceans for 2 years, and HYPSO-2 is set to launch this summer. 
+NTNU's HYPSO-1 satellite has been collecting hyperspectral data of coastal oceans for 3 years, and HYPSO-2 is launched last summer. 
 It has collected of 2.000 hyperspectral images, or more than a billion individual spectra. 
-Thus, the data set is ready to be explored by AI. 
 
-A foundation model is an unsupervised neural network which is trained on a very large dataset and which can be applied to a variety of tasks. 
+Every year, the HYPSO team has participated in a mission with NTNU's biology department in Frohavet, to the West of Trondheimsfjord. This project would focus on integrating those data 
 
-The most famous foundation model, Chat-GPT, processes text, but several networks have been developed for remote sensing imagery. 
-The foundation model trained here would probably be quite a bit smaller than some of those other networks, but would still adhere to the idea of a foundation model.
-
-Unmixing a spectral image refers to partitioning each spectrum into possible components. 
-It has become the most popular type of algorithm to apply to hyperspectral images. 
-It's been shown to be very powerful on single images, but has rarely been applied to larger datasets. 
-Thus this would be a very novel research topic. 
 
 ​Skills that will be learned:​
 - Machine learning (various python libraries)
