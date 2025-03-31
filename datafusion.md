@@ -5,7 +5,6 @@ NTNU smallsat lab is planning a new satellite, HYPSO-3, which will have several 
 
 Once launched, the HYPSO-3 satellite will be used for water quality monitoring of fjords and lakes in order to help Norway achieve the UN's sustainable development goals. ​Saving fish farms from harmful algal blooms is a particularly important goal of the HYPSO-3 mission.
 
-Example of multi/hyperspectral data fusion:
-http://naotoyokoya.com/assets/pdf/NYokoyaTGRS2012.pdf
+Here is are two examples of multi/hyperspectral data fusion: http://naotoyokoya.com/assets/pdf/NYokoyaTGRS2012.pdf https://www.sciencedirect.com/science/article/pii/S0169743920301180 . However, data fusion of two hyperspectral images is a novel topic, and few methods have been proposed to date.You could be one of the first to work on it globally!
 
 Contact joseph.garrett@ntnu.no for more details.
