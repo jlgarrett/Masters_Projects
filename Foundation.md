@@ -4,16 +4,14 @@ Explainable AI for Ocean Monitoring Time-series
 NTNU's HYPSO-1 satellite has been collecting hyperspectral data of coastal oceans for 3 years, and HYPSO-2 is launched last summer. 
 It has collected of 2.000 hyperspectral images, or more than a billion individual spectra. 
 
-Every year, the HYPSO team has participated in a mission with NTNU's biology department in Frohavet, to the West of Trondheimsfjord. This project would focus on integrating those data 
+The Frohavet observational campaign has been carried out in the last 3 years, with different sensors being used, including Sentinel-3 data, HYPSO-1 and HYPSO-2, Autonomous Surface Vehicles, and other ground agents. The scope is to study algae bloom that are usually happening in April in Norwegian Coastal Areas.
+However, new algorithms have been added in the ground processing pipeline, leading to the need of re-analysing the available old data to learn from previous campaigns.
+This project will investigate those data and look for simple models which can incorporate multiple agents. 
 
+Task:
+Analyse the recently reprocessed data that can contains new information
+Compare the results by the different agents, to find trends in the data.
+Analyse the quenching phenomena, which lead to higher levels of chlorophyll during the night.
+Analyse the maximum data latency for comparing the value of chlorophyll, given its temporal variability
 
-​Skills that will be learned:​
-- Machine learning (various python libraries)
-- Processing large datasets 
-- Hyperspectral image processing 
-
-Notes:
-
-I will find a co-advisor for this project. The HYPSO project usually has about 10 masters students working on projects, so there will be others to chat with about your project and to socialize with. 
-This project can be continued as a thesis. Although this is an extremely interesting research topic, I also think that it may be fairly challenging relative to the other masters project topics that I've offered. 
-A love of mathematics is more important than prior machine learning experience, as I think some analytic derivations will probably be necessary for understanding how the networks operate.
+This project will be co-advised by Cameron Penne, PhD student
