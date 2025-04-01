@@ -8,4 +8,4 @@ b) robustness against measurement noise in the chosen sensor channels
 
 c) interpretability and numerical stability.
 
-This project would be advised by Frank Westad and co-advised by Joe Garrett
+This project would be advised by Frank Westad and co-advised by Joe Garrett and would be done in collaboration with IDLEtechs
