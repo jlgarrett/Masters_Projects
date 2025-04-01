@@ -1,4 +1,4 @@
-Coordinated Planning between a satellite constellation and a Uncrewed Surface Vehicle
+Coordinated Planning between a satellite constellation and a Autonomous Surface Vehicle
 =
 
 Since 2021, NTNU has participated in a field campaign in Frohavet, directly west of Trondheim. 
