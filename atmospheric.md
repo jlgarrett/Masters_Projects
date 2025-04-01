@@ -6,4 +6,6 @@ In particular, NTNU's cubesats, HYPSO-1,-2, can image detailed spectral informat
 
 However, most of what HYPSO observes is the atmosphere between its camera an the ocean. 
 The effects of the atmosphere on the images it collects must be mitigated before the data can be used. 
+This project will explore ways of correcting for the atmosphere with an imperfect camera. 
 
+It will be co-advised by Vishnu Suseelan.
