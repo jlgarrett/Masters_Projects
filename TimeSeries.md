@@ -9,9 +9,9 @@ However, new algorithms have been added in the ground processing pipeline, leadi
 This project will investigate those data and look for simple models which can incorporate multiple agents. 
 
 Tasks:
--Analyse the recently reprocessed data that can contains new information
--Compare the results by the different agents, to find trends in the data.
--Analyse the quenching phenomena, which lead to higher levels of chlorophyll during the night.
--Analyse the maximum data latency for comparing the value of chlorophyll, given its temporal variability
+- Analyse the recently reprocessed data that can contains new information
+- Compare the results by the different agents, to find trends in the data.
+- Analyse the quenching phenomena, which lead to higher levels of chlorophyll during the night.
+- Analyse the maximum data latency for comparing the value of chlorophyll, given its temporal variability
 
 This project will be co-advised by Cameron Penne, PhD student
