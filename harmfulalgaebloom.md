@@ -9,4 +9,4 @@ This project will involve developing a model that can integrate all the differen
 The model will be built on On-the-fly processing (OTFP), which is an AI framework for continually extracting information about a hyperspectral scene. 
 More information about OTFP can be found here: https://www.sciencedirect.com/science/article/pii/S0169743916304555#f0005
 
-This project will be a collaboration with IDLEtechs, a Trondheim-based buisiness that specializes in extracting usable information from big data and will be co-advised by Simen Berg, a PhD student who works with Mission Mjøsa. 
+This project will be a collaboration with IDLEtechs, a Trondheim-based buisiness that specializes in extracting usable information from big data and will be co-advised by Aria Alinejad, a PhD student who works with harmful algal bloom monitoring. 
