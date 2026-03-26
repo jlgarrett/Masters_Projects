@@ -9,7 +9,7 @@ While I had been mainly concerned with using SA-unmixing as a comparison, its su
 
 There are a number of different directions that this project could take, depending on what interests a particular student.
 Some possible options include:
-1) Discritization of the abundance matrix: the original SA-unmixing only discritized the spectral matrix, while the abundance matrix was updated according to standard least-squares unmixing.
+1) Discritize the abundance matrix: the original SA-unmixing only discritized the spectral matrix, while the abundance matrix was updated according to standard least-squares unmixing.
 2) Explore different objective functions: With simulated annealing, the objective function no longer needs to be differentiable. Therefore, more different objective functions are possible
 3) Explore how to grow networks in neural-network based unmixing: In deep learning, the network structure is not included in optimization because changes to it are discrete. However, simulated annealing could allow a network to be grown.
 
