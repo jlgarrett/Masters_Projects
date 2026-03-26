@@ -1,4 +1,4 @@
-Explainable AI for Ocean Monitoring Time-series 
+Hyperspectral Unmixing for Ocean Water Types 
 =
 
 NTNU's HYPSO-1 satellite has been collecting hyperspectral data of coastal oceans for 3 years, and HYPSO-2 is launched last summer. 
