@@ -9,7 +9,7 @@ Therefore, we need to package the telescope tightly for launch and then deploy i
 The goal in this project is to determine how to control that deployment electronically. Students from the Mechanical Engineering department have already developed a mechanical prototype for the deployment. Your goal is to develop the strategy to extend the secondary mirror and focus the lens while controlling the 2-4 actuators. 
 Optionally, you could look into the optical design as well. 
 
-In this thesis, you will learn about:
+In this project, you will learn about:
 - Electro-mechanical actuation in space
 - Control of mechanical actuators
 - Telescope optics
