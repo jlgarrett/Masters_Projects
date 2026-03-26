@@ -14,3 +14,9 @@ For more background, visit:
 - [Minimal Atmospheric Compensation for Hyperspectral Images](https://github.com/NTNU-SmallSat-Lab/MACHI)
 - [Generalization and Validation of MACHI: Minimal Atmospheric Compensation for Hyperspectral Images](https://www.researchgate.net/publication/396558962_Generalization_and_Validation_of_MACHI_Minimal_Atmospheric_Compensation_for_Hyperspectral_Images) - MSc thesis
 - [Atmospheric Correction of Satellite Ocean-Color Imagery During the PACE Era](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2019.00145/full)
+
+In this thesis, you will learn more about:
+- Spectral image processing
+- Atmospheric light propagation
+- Satellite control
+- Mission planning
