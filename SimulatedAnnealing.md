@@ -12,6 +12,7 @@ Some possible options include:
 1) Discritize the abundance matrix: the original SA-unmixing only discritized the spectral matrix, while the abundance matrix was updated according to standard least-squares unmixing.
 2) Explore different objective functions: With simulated annealing, the objective function no longer needs to be differentiable. Therefore, more different objective functions are possible
 3) Explore how to grow networks in neural-network based unmixing: In deep learning, the network structure is not included in optimization because changes to it are discrete. However, simulated annealing could allow a network to be grown.
+4) Explore how Simulated Annealing can be used to look for Calanus Finmarchicus (Raudåte) in hyperspectral data
 
 This thesis would be an excellent fit for someone who enjoys the creative side of mathematics.
 I wrote the basic SA-unmixing in python, but any programming language experience should suffice for this thesis.
