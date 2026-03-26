@@ -17,10 +17,12 @@ This thesis would be an excellent fit for someone who enjoys the creative side o
 I wrote the basic SA-unmixing in python, but any programming language experience should suffice for this thesis.
 
 Skills you will learn include:
--Hyperspectral data analysis, including unmixing
--Optimization on non-differentiable functions with simulated annealing
--(maybe) growth of neural network architectures with simulated annealing
+- Hyperspectral data analysis, including unmixing
+- Optimization on non-differentiable functions with simulated annealing
+- (maybe) growth of neural network architectures with simulated annealing
 
 Some relevant papers:
+
 [Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing](https://ieeexplore.ieee.org/abstract/document/10213413)
+
 [Optimization by Simulated Annealing](https://hedibert.org/wp-content/uploads/2013/12/1983KirkpatrickGelattVecchi.pdf)
