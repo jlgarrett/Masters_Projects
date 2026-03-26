@@ -22,7 +22,5 @@ Skills you will learn include:
 - (maybe) growth of neural network architectures with simulated annealing
 
 Some relevant papers:
-
-[Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing](https://ieeexplore.ieee.org/abstract/document/10213413)
-
-[Optimization by Simulated Annealing](https://hedibert.org/wp-content/uploads/2013/12/1983KirkpatrickGelattVecchi.pdf)
+- [Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing](https://ieeexplore.ieee.org/abstract/document/10213413)
+- [Optimization by Simulated Annealing](https://hedibert.org/wp-content/uploads/2013/12/1983KirkpatrickGelattVecchi.pdf)
