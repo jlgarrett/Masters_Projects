@@ -1,9 +1,7 @@
 Dimensionality and biodiversity in hyperspectral images
 =
 
-The NTNU smallsat lab has been involved in hyperspectral imaging for nearly a decade. The satellites HYPSO-1 and HYPSO-2 are both in orbit, and we are planning a new HYPSO-3 mission.
-
-We now have lots of data to analyze. Come and join us!
+The NTNU smallsat lab has been involved in hyperspectral imaging for nearly a decade. The satellites HYPSO-1 and HYPSO-2 are both in orbit, and we are planning a new HYPSO-3 mission. We now have lots of data to analyze. 
 
 Recently, the paper [Intrinsic dimensionality as a metric for temporal plant diversity evaluation](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.70213) proposed the idea that the biodiversity of an area is related to the intrinsic dimensionality of a hyperspectral image of that area. 
 If this hypothesis is true, it would revolutionize hyperspectral remote sensing. It would allow hyperspectral images to be used directly for biodiversity characterization, bypassing the need for algorithms to explicitly label every species in an image. 
