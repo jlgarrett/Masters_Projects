@@ -6,7 +6,7 @@ The NTNU SmallSat lab is contributing a [polarized red-green-blue (P-RGB) camera
 This camera can resolve finer spatial details on the ground than the hyperspectral cameras (2.9m spatial resolution), and will be used to define a grid on which to rectify the hyperspectral images. 
 Moreover, the polarization information will be used to determine the contribution of aerosols and water vapor to optical transmission through the atmosphere.
 
-To achieve a ground resolution of 2.9m without blur, the exposure time must be quite low, e.g. < (2.9m / 7.6km/s) ~ 0.4ms. Thus, a single image will be darker than desired for the final analysis. To compensate for this, the camera will take many images, ~17 fps. 
+To achieve a ground resolution of 2.9m without blur, the exposure time must be quite low, e.g. < (2.9m / 7.6km/s) ~ 0.4ms. Thus, a single image will be darker than desired for the final analysis. To compensate for this, the camera will take many images at about 17 frames per second. 
 Then, those images must be fused together in a way that preserves spatial features while also increasing the signal level. 
 
 There are algorithms for this for RGB images, but they do not preserve polarization information, e.g. [Multiframe demosaicing and super-resolution of color images](https://ieeexplore.ieee.org/abstract/document/1556633). 
