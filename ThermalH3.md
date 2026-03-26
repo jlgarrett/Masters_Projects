@@ -1,4 +1,4 @@
-Thermal engineering on HYPSO-3
+Thermal control of HYPSO-3 cameras
 =
 To be co-advised with [Anna Olsen](https://www.ntnu.no/ansatte/anna.olsen) from the Mechanical Engineering department
 
