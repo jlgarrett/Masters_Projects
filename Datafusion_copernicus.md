@@ -10,4 +10,4 @@ Tasks:
 Literature review on Cubesat-large platforms mission planning integration
 Analyse a use-case, and propose a possible integration
 
-The project will be co-advised by a PhD student
+The project will be co-advised by Dennis Langer, Postdoc
