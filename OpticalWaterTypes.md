@@ -14,4 +14,4 @@ Tasks:
 - Analyse the quenching phenomena, which lead to higher levels of chlorophyll during the night.
 - Analyse the maximum data latency for comparing the value of chlorophyll, given its temporal variability
 
-This project will be co-advised by Cameron Penne, PhD student
+This project will be co-advised by Aria Alinejad, PhD student and Vishnu Suseelan, PostDoc
