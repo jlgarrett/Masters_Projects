@@ -14,6 +14,7 @@ Your task in this project would be to develop an algorithm to fuse P-RGB images,
 
 Skills you will learn in this thesis:
 - Image fusion
-- Feature mapping
+- Feature matching, e.g. with SIFT
 - Numerical Optimization
 - Optics of polarization
+- Optical and computational performance benchmarking
