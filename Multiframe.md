@@ -11,3 +11,9 @@ Then, those images must be fused together in a way that preserves spatial featur
 
 There are algorithms for multiframe fusion of RGB images, but they do not preserve polarization information, e.g. [Multiframe demosaicing and super-resolution of color images](https://ieeexplore.ieee.org/abstract/document/1556633). 
 Your task in this project would be to develop an algorithm to fuse P-RGB images, preserving the polarization information. We have P-RGB cameras in the lab which you can use for data collection. In addition to prototyping the algorithm, the project could also include an analysis of computational / memory complexity and an analysis of the feasiblitiy of on-board implementations.
+
+Skills you will learn in this thesis:
+- Image fusion
+- Feature mapping
+- Numerical Optimization
+- Optics of polarization
