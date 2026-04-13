@@ -3,6 +3,7 @@ Hyperspectral unmixing with Simulated Annealing
 
 The NTNU smallsat lab has been involved in hyperspectral imaging for nearly a decade.
 One of the most common analysis techniques to apply to hyperspectral data is unmixing.
+
 A few months ago, I was comparing a new unmixing technique against traditional methods, and I realized that an ancient numerical optimization method known as Simulated Annealing (SA) could minimize the unmixing objective function if a few constraints are applied.
 A simple implementation of SA-unmixing showed performance comparable to more modern deep learning methods. 
 While I had been mainly concerned with using SA-unmixing as a comparison, its surprisingly good performance has convinced me that I should offer a masters thesis in which you could explore variants and applications of SA-unmixing in more detail. 
